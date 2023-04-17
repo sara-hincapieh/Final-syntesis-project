@@ -3,13 +3,13 @@ html {
 }
 
 body {
-  margin: 0;
-  background-color: #ffffff;
+  margin: 1;
+  background-image: url("../img/background.jpg");
 }
 
 header h1 {
-  background-color: #364552;
-  color: white;
+  background-color: rgb(25, 13, 39);
+  color: rgb(250, 219, 250);
   padding: 3rem 2rem;
   font-size: 3rem;
   text-align: center;
@@ -54,7 +54,7 @@ body p {
 
 ul,
 li {
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   margin: 1rem 0;
   width: 95%;
   margin-left: auto;
@@ -136,7 +136,7 @@ footer a:hover {
   display: none;
   padding: 0.25rem 0;
   border: 1px solid #ccc;
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.8);
   border-top: none;
   border-radius: 0.5rem;
   width: 800px;
